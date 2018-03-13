@@ -49,7 +49,7 @@ If you dont know your ip address you can run
 
 `sudo apt-get install curl`
 then:
- `curl http://icanhazip.com`
+`curl http://icanhazip.com`
  
  This will display you ip address, I ran into the issue of having a private address and had to go through a process of port-forwarding. If this happens to you refer to this [page](https://www.digitalocean.com/community/tutorials/how-to-forward-ports-through-a-linux-gateway-with-iptables) as it will walk you through setting that up
  
